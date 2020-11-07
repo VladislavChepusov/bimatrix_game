@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dop_bal_CMPR", "dop_bal_CMPR\dop_bal_CMPR.pyproj", "{B16B9F33-0872-49B8-8A63-DC3439313F41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16B9F33-0872-49B8-8A63-DC3439313F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16B9F33-0872-49B8-8A63-DC3439313F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E404078-D437-47CC-B9FB-452FBB82CCBB}
+	EndGlobalSection
+EndGlobal
